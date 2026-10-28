@@ -81,12 +81,6 @@ CURRENT MISSION:
 STATUS: ALWAYS LEARNING_
 ```
 
-### `> beyond_the_code`
-
-Always curious about how things work. Always experimenting with new ideas.
-
-**Keep learning. Keep creating. Keep evolving.** 💗
-
 <!--
 UNCOMMENT THIS SECTION WHEN YOU ARE READY TO SHARE PROJECTS:
 
