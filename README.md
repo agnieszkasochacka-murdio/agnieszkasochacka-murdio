@@ -1,70 +1,110 @@
 <!--
-  GITHUB PROFILE README — NEON MINT TEMPLATE
-  1. Create a PUBLIC repository named exactly like your GitHub username.
-  2. Upload README.md and the entire assets/ folder.
-  3. Replace YOUR NAME / YOUR ROLE / YOUR SPECIALIZATION and the other placeholders.
-  4. To change theme colors, replace #76F7D5 (accent) and #071117 (background) in assets/*.svg.
-  No external generators, API tokens, or GitHub Actions required.
+  NEON PINK / CYBERPUNK PROFILE
+  All three SVG illustrations are in ./assets/.
+  To customize their text, edit hero.svg and profile-scan.svg.
+  The "selected_projects" block is hidden until you want to publish projects.
+  NOTE: GitHub controls the surrounding page theme; the dark panels are SVG images.
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Welcome — custom neon terminal banner" width="100%" />
+  <img src="./assets/hero.svg" alt="Agnieszka — cyberpunk neon profile banner" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="./assets/profile-scan.svg" alt="Decorative profile scan with editable details" width="100%" />
+  <img src="./assets/profile-scan.svg" alt="Agnieszka — animated neon identity scan" width="100%" />
 </div>
 
 <br />
 
-### `> about_me`
+### `> whoami`
 
-Hi! I'm **YOUR NAME**, a **YOUR ROLE** interested in **YOUR FOCUS / INTERESTS**.
+Hi, I'm **Agnieszka** 👋
 
-I enjoy learning new things, experimenting with technology and building thoughtful solutions.
+**Data Governance Consultant & AI Developer @ Murdio**
 
-- 🔭 **Currently exploring:** YOUR CURRENT TOPIC
-- 🌱 **Learning:** YOUR NEXT SKILL
-- ⚡ **Into:** YOUR INTERESTS
+I enjoy turning complex data into intelligent solutions, experimenting with emerging technologies, and building tools that solve real problems.
+
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Data Engineering, and Cybersecurity**.
+
+And because one field apparently wasn't enough, I'm also studying **Computer Science and Law**. ⚖️
+
+### `> currently_exploring`
+
+- 🧠 **AI & Machine Learning** from training models to practical applications
+- 🔐 **Cybersecurity** AI-powered threat detection, eBPF and XDP
+- 🤖 **LLMs & AI Agents** intelligent, conversational tools
+- ☁️ **Cloud & Infrastructure** Linux, Docker and cloud deployments
+- ⚖️ **Law & Technology** exploring where innovation meets regulation
+
+### `> currently_building`
+
+**`[ACTIVE PROJECT]` AI-Driven Real-Time DDoS Detection**
+
+Exploring how **Machine Learning and eBPF** can work together to detect and mitigate network attacks in real time.
 
 ### `> tech_stack`
 
-<!-- Delete or replace anything you don't actually use. -->
+**Languages**
 
-![Python](https://img.shields.io/badge/Python-0D2428?style=for-the-badge&logo=python&logoColor=76F7D5)
-![Linux](https://img.shields.io/badge/Linux-0D2428?style=for-the-badge&logo=linux&logoColor=76F7D5)
-![Docker](https://img.shields.io/badge/Docker-0D2428?style=for-the-badge&logo=docker&logoColor=76F7D5)
-![Git](https://img.shields.io/badge/Git-0D2428?style=for-the-badge&logo=git&logoColor=76F7D5)
-![SQL](https://img.shields.io/badge/SQL-0D2428?style=for-the-badge&logo=postgresql&logoColor=76F7D5)
+![Python](https://img.shields.io/badge/Python-1A1028?style=for-the-badge&logo=python&logoColor=FF4FD8)
+![C](https://img.shields.io/badge/C-1A1028?style=for-the-badge&logo=c&logoColor=FF4FD8)
+![C%23](https://img.shields.io/badge/C%23-1A1028?style=for-the-badge&logo=dotnet&logoColor=FF4FD8)
+![SQL](https://img.shields.io/badge/SQL-1A1028?style=for-the-badge&logo=postgresql&logoColor=FF4FD8)
 
-### `> current_status`
+**AI & Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1A1028?style=for-the-badge&logo=scikitlearn&logoColor=FF4FD8)
+![Pandas](https://img.shields.io/badge/Pandas-1A1028?style=for-the-badge&logo=pandas&logoColor=FF4FD8)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1028?style=for-the-badge&logo=fastapi&logoColor=FF4FD8)
+
+**Development & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-1A1028?style=for-the-badge&logo=linux&logoColor=FF4FD8)
+![Docker](https://img.shields.io/badge/Docker-1A1028?style=for-the-badge&logo=docker&logoColor=FF4FD8)
+![Git](https://img.shields.io/badge/Git-1A1028?style=for-the-badge&logo=git&logoColor=FF4FD8)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-1A1028?style=for-the-badge&logo=googlecloud&logoColor=FF4FD8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1028?style=for-the-badge&logo=postgresql&logoColor=FF4FD8)
+
+### `> system_status`
 
 ```text
-[ SYSTEM INITIALIZED ]
-[ PROJECTS LOADING  ]
-[ NEW IDEAS: ONLINE ]
+[✓] SYSTEM ONLINE
+[✓] CURIOSITY ENABLED
+[✓] AI MODELS TRAINING
+[✓] NEW IDEAS GENERATING
+
+CURRENT MISSION:
+  Building intelligent solutions.
+
+STATUS: ALWAYS LEARNING_
 ```
 
+### `> beyond_the_code`
+
+Always curious about how things work. Always experimenting with new ideas.
+
+**Keep learning. Keep creating. Keep evolving.** 💗
+
 <!--
-  ADD THIS SECTION WHEN YOU HAVE PROJECTS TO SHOW:
+UNCOMMENT THIS SECTION WHEN YOU ARE READY TO SHARE PROJECTS:
 
 ### `> selected_projects`
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| [Project name](https://github.com/YOUR_USERNAME/PROJECT) | Short description | Python, ... |
+| [Project name](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY) | Short description | Python, ... |
 
-  ADD THESE CONTACT LINKS ONLY WHEN YOU WANT THEM PUBLIC:
+OPTIONAL PUBLIC CONTACT LINKS:
 
 ### `> connect`
 
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) · [Website](https://YOUR_WEBSITE)
+[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [Portfolio](https://YOUR_WEBSITE)
 -->
 
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Thanks for visiting" width="100%" />
+  <img src="./assets/footer.svg" alt="End of transmission — thank you for visiting" width="100%" />
 </div>
