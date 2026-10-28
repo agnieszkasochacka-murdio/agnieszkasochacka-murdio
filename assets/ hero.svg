@@ -24,8 +24,7 @@
  <rect x="1" y="1" width="1198" height="388" rx="20" fill="none" stroke="#FF79E6" stroke-opacity=".38" stroke-width="2"/>
 <circle cx="72" cy="35" r="6" fill="#FF5B88"/><circle cx="94" cy="35" r="6" fill="#FFD16C"/><circle cx="116" cy="35" r="6" fill="#FF4FD8"/>
 <path d="M42 64H1158" stroke="#59336E" stroke-width="1"/>
-<rect x="52" y="89" width="296" height="29" rx="14.5" fill="#311A43" stroke="#A548AC" stroke-width="1"/>
-<text x="69" y="109" class="mono" font-size="12" fill="#FF4FD8" font-weight="normal" >●  WELCOME TO MY CYBERSPACE</text><text x="54" y="188" class="sans" font-size="30" fill="#BEA6C9" font-weight="bold" >HELLO, I'M</text><text x="51" y="255" class="sans" font-size="68" fill="#FFF1FC" font-weight="bold" >AGNIESZKA</text><rect x="54" y="273" width="358" height="3" rx="1.5" fill="url(#mint-h)"/>
+<text x="54" y="188" class="sans" font-size="30" fill="#BEA6C9" font-weight="bold" >HELLO, I'M</text><text x="51" y="255" class="sans" font-size="68" fill="#FFF1FC" font-weight="bold" >AGNIESZKA</text><rect x="54" y="273" width="358" height="3" rx="1.5" fill="url(#mint-h)"/>
 <text x="55" y="314" class="mono" font-size="17" fill="#FF4FD8" font-weight="normal" >DATA GOVERNANCE CONSULTANT  /  AI DEVELOPER</text><text x="55" y="347" class="mono" font-size="15" fill="#BEA6C9" font-weight="normal" >learning  •  building  •  evolving</text><rect x="741" y="91" width="405" height="248" rx="15" fill="#120A22" stroke="#763D85" stroke-width="1.7"/>
 <rect x="741" y="91" width="405" height="37" rx="15" fill="#2E193D"/>
 <rect x="741" y="113" width="405" height="15" fill="#2E193D"/>
