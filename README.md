@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Agnieszka — Cyberpunk Profile" width="100%" />
+  <img src="assets/ hero.svg" alt="Agnieszka — Cyberpunk Profile" width="100%" />
 </div>
 
 <br />
