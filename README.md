@@ -1,17 +1,3 @@
-<!--
-  NEON PINK / CYBERPUNK PROFILE
-  All three SVG illustrations are in ./assets/.
-  To customize their text, edit hero.svg and profile-scan.svg.
-  The "selected_projects" block is hidden until you want to publish projects.
-  NOTE: GitHub controls the surrounding page theme; the dark panels are SVG images.
--->
-
-<div align="center">
-  <img src="./assets/hero.svg" alt="Agnieszka — cyberpunk neon profile banner" width="100%" />
-</div>
-
-<br />
-
 <div align="center">
   <img src="./assets/profile-scan.svg" alt="Agnieszka — animated neon identity scan" width="100%" />
 </div>
