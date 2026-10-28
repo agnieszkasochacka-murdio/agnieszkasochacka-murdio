@@ -12,9 +12,9 @@ Hi, I'm **Agnieszka** 👋
 
 I enjoy turning complex data into intelligent solutions, experimenting with emerging technologies, and building tools that solve real problems.
 
-My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Data Engineering, and Cybersecurity**.
+As a  **computer science student** my interests lie at the intersection of **Artificial Intelligence, Machine Learning, Data Engineering, and Cybersecurity**.
 
-And because one field apparently wasn't enough, I'm also studying **Computer Science and Law**. ⚖️
+And because one field apparently wasn't enough, I'm also studying **Law**. ⚖️
 
 ### `> currently_exploring`
 
