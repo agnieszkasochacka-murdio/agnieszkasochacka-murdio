@@ -1,3 +1,16 @@
+
+<div align="center">
+  <img src="./assets/hero.svg" alt="Agnieszka — Cyberpunk Profile" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/profile-scan.svg" alt="Agnieszka — animated neon identity scan" width="100%" />
+</div>
+
+<br />
+
 <div align="center">
   <img src="./assets/profile-scan.svg" alt="Agnieszka — animated neon identity scan" width="100%" />
 </div>
