@@ -11,12 +11,6 @@
 
 <br />
 
-<div align="center">
-  <img src="./assets/profile-scan.svg" alt="Agnieszka — animated neon identity scan" width="100%" />
-</div>
-
-<br />
-
 ### `> whoami`
 
 Hi, I'm **Agnieszka** 👋
