@@ -1,14 +1,8 @@
 
 <div align="center">
-  <img src="assets/hero.gif" alt="Agnieszka — Cyberpunk Profile" width="100%" />
+  <img src="assets/hero-small.gif" alt="Agnieszka — Cyberpunk Profile" width="100%" />
 </div>
 
-
-<div align="center">
-  <img src="assets/ hero.svg" alt="Agnieszka — Cyberpunk Profile" width="100%" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="./assets/profile-scan.svg" alt="Agnieszka — animated neon identity scan" width="100%" />
