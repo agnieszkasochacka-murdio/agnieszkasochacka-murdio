@@ -16,20 +16,6 @@ As a  **computer science student** my interests lie at the intersection of **Art
 
 And because one field apparently wasn't enough, I'm also studying **Law**. ⚖️
 
-### `> currently_exploring`
-
-- 🧠 **AI & Machine Learning** from training models to practical applications
-- 🔐 **Cybersecurity** AI-powered threat detection, eBPF and XDP
-- 🤖 **LLMs & AI Agents** intelligent, conversational tools
-- ☁️ **Cloud & Infrastructure** Linux, Docker and cloud deployments
-- ⚖️ **Law & Technology** exploring where innovation meets regulation
-
-### `> currently_building`
-
-**`[ACTIVE PROJECT]` AI-Driven Real-Time DDoS Detection**
-
-Exploring how **Machine Learning and eBPF** can work together to detect and mitigate network attacks in real time.
-
 ### `> tech_stack`
 
 **Languages**
@@ -52,6 +38,21 @@ Exploring how **Machine Learning and eBPF** can work together to detect and miti
 ![Git](https://img.shields.io/badge/Git-1A1028?style=for-the-badge&logo=git&logoColor=FF4FD8)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-1A1028?style=for-the-badge&logo=googlecloud&logoColor=FF4FD8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1028?style=for-the-badge&logo=postgresql&logoColor=FF4FD8)
+
+### `> currently_exploring`
+
+- 🧠 **AI & Machine Learning** from training models to practical applications
+- 🔐 **Cybersecurity** AI-powered threat detection, eBPF and XDP
+- 🤖 **LLMs & AI Agents** intelligent, conversational tools
+- ☁️ **Cloud & Infrastructure** Linux, Docker and cloud deployments
+- ⚖️ **Law & Technology** exploring where innovation meets regulation
+
+### `> currently_building`
+
+**`[ACTIVE PROJECT]` AI-Driven Real-Time DDoS Detection**
+
+Exploring how **Machine Learning and eBPF** can work together to detect and mitigate network attacks in real time.
+
 
 ### `> system_status`
 
